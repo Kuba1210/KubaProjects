@@ -1,1 +1,1 @@
-# Jakub Polakiewicz projekty
+# KubaProjects
